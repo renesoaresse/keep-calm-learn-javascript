@@ -1,8 +1,8 @@
 const MY_UF = 'PR';
 
-MY_UF = 'SE';
-
 console.log('Meu estado é ' + MY_UF);
+
+MY_UF = 'SE';
 
 const MY_UF = 'RS';
 
